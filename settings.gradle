@@ -1,0 +1,4 @@
+rootProject.name='DaggerModules'
+include ':app'
+include ':core'
+include ':feature'
